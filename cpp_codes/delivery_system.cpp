@@ -2,9 +2,17 @@
 #include <iomanip>
 using namespace std;
 
-int main()
+class FoodDeliverySystem
+{
+private:
+public:
+}
+
+int
+main()
+
 {
 
-    cout<<"==========MENU==========";
+    cout << "==========MENU==========";
     return 0;
 }
